@@ -1,3 +1,3 @@
 ## AlgaWorks
 
-Acesse http://blog.algaworks.com/comecando-com-o-spring-framework/ 
+Acesse http://blog.algaworks.com/projeto-nao-web-spring/
